@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi, I'm Evelyn
+
+## I'm an undergrad studying Government and data science!
+- 🔭 I’m currently working on developing course tools for Gov 50 at Harvard!
+- 🌱 I’m growing my toolkit...
+- 📫 [Email me!][evelyncai@college.harvard.edu]
+
+<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+
 
 <!--
 **caievelyn/caievelyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
