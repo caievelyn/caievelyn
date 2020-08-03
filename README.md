@@ -9,7 +9,7 @@
 
 ## Get in Touch
 [<img align="left" alt="Email" width="30px" src="https://image.flaticon.com/icons/png/512/281/281769.png" />][email]
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />][linkedin]
 
 [email]: evelyncai@college.harvard.edu
 [linkedin]: https://www.linkedin.com/in/evelyncai/
