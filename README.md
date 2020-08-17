@@ -1,8 +1,8 @@
 ### Hi, I'm Evelyn
 
-## I'm an undergrad studying Government and data science!
+## I'm an undergrad studying Government!
+- 📊 I'm a Civitas public service fellow analyzing traffic stop data.
 - 🔭 I’m currently working on developing course tools for Gov 50 at Harvard.
-- 📊 I'm also a Civitas public service fellow analyzing traffic stop data.
 - 🌱 I’m growing!
 
 ## Languages and Tools
